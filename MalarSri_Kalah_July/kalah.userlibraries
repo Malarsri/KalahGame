@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: backport-util-concurrent:backport-util-concurrent:3.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.2.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.2.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar" />
+  </library>
+  <library name="Maven: classworlds:classworlds:1.1-alpha-2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.11.0/jackson-dataformat-yaml-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.0/jackson-datatype-jdk8-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.0/jackson-datatype-jsr310-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.11.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.0/jackson-module-parameter-names-2.11.0.jar" />
+  </library>
+  <library name="Maven: com.jayway.jsonpath:json-path:2.4.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" />
+  </library>
+  <library name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.7.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.14">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-codec/commons-codec/1.14/commons-codec-1.14.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-collections/commons-collections/3.2/commons-collections-3.2.jar" />
+  </library>
+  <library name="Maven: commons-digester:commons-digester:1.6">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-digester/commons-digester/1.6/commons-digester-1.6.jar" />
+  </library>
+  <library name="Maven: commons-httpclient:commons-httpclient:3.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.4">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.0.4">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar" />
+  </library>
+  <library name="Maven: commons-validator:commons-validator:1.2.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/commons-validator/commons-validator/1.2.0/commons-validator-1.2.0.jar" />
+  </library>
+  <library name="Maven: io.github.classgraph:classgraph:4.8.69">
+    <archive path="/Users/xp49ux/.m2/custom/repository/io/github/classgraph/classgraph/4.8.69/classgraph-4.8.69.jar" />
+  </library>
+  <library name="Maven: io.swagger.core.v3:swagger-annotations:2.1.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/io/swagger/core/v3/swagger-annotations/2.1.3/swagger-annotations-2.1.3.jar" />
+  </library>
+  <library name="Maven: io.swagger.core.v3:swagger-core:2.1.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/io/swagger/core/v3/swagger-core/2.1.3/swagger-core-2.1.3.jar" />
+  </library>
+  <library name="Maven: io.swagger.core.v3:swagger-integration:2.1.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/io/swagger/core/v3/swagger-integration/2.1.3/swagger-integration-2.1.3.jar" />
+  </library>
+  <library name="Maven: io.swagger.core.v3:swagger-models:2.1.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/io/swagger/core/v3/swagger-models/2.1.3/swagger-models-2.1.3.jar" />
+  </library>
+  <library name="Maven: jakarta.activation:jakarta.activation-api:1.2.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar" />
+  </library>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5">
+    <archive path="/Users/xp49ux/.m2/custom/repository/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar" />
+  </library>
+  <library name="Maven: jakarta.validation:jakarta.validation-api:2.0.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:2.3.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.12">
+    <archive path="/Users/xp49ux/.m2/custom/repository/junit/junit/4.12/junit-4.12.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.10.11">
+    <archive path="/Users/xp49ux/.m2/custom/repository/net/bytebuddy/byte-buddy/1.10.11/byte-buddy-1.10.11.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy-agent:1.10.11">
+    <archive path="/Users/xp49ux/.m2/custom/repository/net/bytebuddy/byte-buddy-agent/1.10.11/byte-buddy-agent-1.10.11.jar" />
+  </library>
+  <library name="Maven: net.minidev:accessors-smart:1.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" />
+  </library>
+  <library name="Maven: net.minidev:json-smart:2.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/net/minidev/json-smart/2.3/json-smart-2.3.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.10">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-api:2.13.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.13.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-core:1.1.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-decoration-model:1.1.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-logging-api:1.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-module-fml:1.1.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-module-xhtml:1.1.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-sink-api:1.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.doxia:doxia-site-renderer:1.1.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-artifact:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-artifact-manager:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-model:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-plugin-api:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-plugin-registry:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-profile:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-project:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-repository-metadata:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven:maven-settings:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.reporting:maven-reporting-api:2.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.reporting:maven-reporting-impl:2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.shared:file-management:1.2.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/shared/file-management/1.2.1/file-management-1.2.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.shared:maven-shared-io:1.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/shared/maven-shared-io/1.1/maven-shared-io-1.1.jar" />
+  </library>
+  <library name="Maven: org.apache.maven.wagon:wagon-provider-api:1.0-beta-6">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.36">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.36/tomcat-embed-core-9.0.36.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.36">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.36/tomcat-embed-websocket-9.0.36.jar" />
+  </library>
+  <library name="Maven: org.apache.velocity:velocity:1.5">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apache/velocity/velocity/1.5/velocity-1.5.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.assertj:assertj-core:3.16.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-i18n:1.0-beta-7">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/codehaus/plexus/plexus-i18n/1.0-beta-7/plexus-i18n-1.0-beta-7.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-interpolation:1.11">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-utils:3.0.22">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.jar" />
+  </library>
+  <library name="Maven: org.codehaus.plexus:plexus-velocity:1.1.7">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/codehaus/plexus/plexus-velocity/1.1.7/plexus-velocity-1.1.7.jar" />
+  </library>
+  <library name="Maven: org.glassfish:jakarta.el:3.0.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest:2.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:2.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar" />
+  </library>
+  <library name="Maven: org.jacoco:jacoco-maven-plugin:0.7.9">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/jacoco/jacoco-maven-plugin/0.7.9/jacoco-maven-plugin-0.7.9.jar" />
+  </library>
+  <library name="Maven: org.jacoco:org.jacoco.agent:runtime:0.7.9">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/jacoco/org.jacoco.agent/0.7.9/org.jacoco.agent-0.7.9-runtime.jar" />
+  </library>
+  <library name="Maven: org.jacoco:org.jacoco.core:0.7.9">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/jacoco/org.jacoco.core/0.7.9/org.jacoco.core-0.7.9.jar" />
+  </library>
+  <library name="Maven: org.jacoco:org.jacoco.report:0.7.9">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/jacoco/org.jacoco.report/0.7.9/org.jacoco.report-0.7.9.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.6.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.6.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.6.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.6.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.6.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-core:3.3.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-junit-jupiter:3.3.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.jar" />
+  </library>
+  <library name="Maven: org.objenesis:objenesis:2.6">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm:5.0.4">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm-debug-all:5.2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar" />
+  </library>
+  <library name="Maven: org.projectlombok:lombok:1.18.12">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" />
+  </library>
+  <library name="Maven: org.skyscreamer:jsonassert:1.5.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jul-to-slf4j:1.7.30">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.30">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" />
+  </library>
+  <library name="Maven: org.springdoc:springdoc-openapi-common:1.4.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springdoc/springdoc-openapi-common/1.4.3/springdoc-openapi-common-1.4.3.jar" />
+  </library>
+  <library name="Maven: org.springdoc:springdoc-openapi-hateoas:1.4.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springdoc/springdoc-openapi-hateoas/1.4.3/springdoc-openapi-hateoas-1.4.3.jar" />
+  </library>
+  <library name="Maven: org.springdoc:springdoc-openapi-ui:1.4.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springdoc/springdoc-openapi-ui/1.4.3/springdoc-openapi-ui-1.4.3.jar" />
+  </library>
+  <library name="Maven: org.springdoc:springdoc-openapi-webmvc-core:1.4.3">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springdoc/springdoc-openapi-webmvc-core/1.4.3/springdoc-openapi-webmvc-core-1.4.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter/2.3.1.RELEASE/spring-boot-starter-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-hateoas:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter-hateoas/2.3.1.RELEASE/spring-boot-starter-hateoas-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-json:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter-json/2.3.1.RELEASE/spring-boot-starter-json-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter-logging/2.3.1.RELEASE/spring-boot-starter-logging-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-test:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter-test/2.3.1.RELEASE/spring-boot-starter-test-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-tomcat:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter-tomcat/2.3.1.RELEASE/spring-boot-starter-tomcat-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-web:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-starter-web/2.3.1.RELEASE/spring-boot-starter-web-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-test:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-test/2.3.1.RELEASE/spring-boot-test-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.3.1.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.3.1.RELEASE/spring-boot-test-autoconfigure-2.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.hateoas:spring-hateoas:1.1.0.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/hateoas/spring-hateoas/1.1.0.RELEASE/spring-hateoas-1.1.0.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-aop/5.2.7.RELEASE/spring-aop-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-beans/5.2.7.RELEASE/spring-beans-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-expression/5.2.7.RELEASE/spring-expression-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jcl:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-jcl/5.2.7.RELEASE/spring-jcl-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-test/5.2.7.RELEASE/spring-test-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-web/5.2.7.RELEASE/spring-web-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:5.2.7.RELEASE">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/springframework/spring-webmvc/5.2.7.RELEASE/spring-webmvc-5.2.7.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.webjars:swagger-ui:3.28.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/webjars/swagger-ui/3.28.0/swagger-ui-3.28.0.jar" />
+  </library>
+  <library name="Maven: org.webjars:webjars-locator-core:0.45">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/webjars/webjars-locator-core/0.45/webjars-locator-core-0.45.jar" />
+  </library>
+  <library name="Maven: org.xmlunit:xmlunit-core:2.7.0">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.26">
+    <archive path="/Users/xp49ux/.m2/custom/repository/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar" />
+  </library>
+  <library name="Maven: oro:oro:2.0.8">
+    <archive path="/Users/xp49ux/.m2/custom/repository/oro/oro/2.0.8/oro-2.0.8.jar" />
+  </library>
+  <library name="Maven: xerces:xercesImpl:2.8.1">
+    <archive path="/Users/xp49ux/.m2/custom/repository/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="/Users/xp49ux/.m2/custom/repository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+</eclipse-userlibraries>
+

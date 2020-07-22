@@ -1,0 +1,7 @@
+version: '3'
+services:
+  mancala-api:
+    build: .
+    environment:
+      - SPRING_APPLICATION_NAME=mancala-api
+      - MANCALA_API_SERVICE_ID= mancala-api

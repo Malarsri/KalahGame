@@ -1,0 +1,71 @@
+{
+  "id": "5d414dcd24e4990006e7c900",
+  "url": "http://localhost/kalah/5d414dcd24e4990006e7c900",
+  "status": {
+    "playerOne": {
+      "pits": [
+        {
+          "id": "ONE",
+          "stones": 6
+        },
+        {
+          "id": "TWO",
+          "stones": 6
+        },
+        {
+          "id": "THREE",
+          "stones": 6
+        },
+        {
+          "id": "FOUR",
+          "stones": 6
+        },
+        {
+          "id": "FIVE",
+          "stones": 6
+        },
+        {
+          "id": "SIX",
+          "stones": 6
+        }
+      ],
+      "house": {
+        "id": "HOUSE",
+        "stones": 0
+      }
+    },
+    "playerTwo": {
+      "pits": [
+        {
+          "id": "ONE",
+          "stones": 6
+        },
+        {
+          "id": "TWO",
+          "stones": 6
+        },
+        {
+          "id": "THREE",
+          "stones": 6
+        },
+        {
+          "id": "FOUR",
+          "stones": 6
+        },
+        {
+          "id": "FIVE",
+          "stones": 6
+        },
+        {
+          "id": "SIX",
+          "stones": 6
+        }
+      ],
+      "house": {
+        "id": "HOUSE",
+        "stones": 0
+      }
+    },
+    "currentPlayer": "ONE"
+  }
+}
